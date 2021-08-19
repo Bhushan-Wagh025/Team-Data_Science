@@ -7,12 +7,51 @@
 - 👯 HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
 - 📫 How to reach us **waghbhushan1123@gmail.com**
 
+<h3 align="left">Language:</h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+### Team Work
+**To build a model to accurately detect the presence of Parkinson’s Disease in an individual.**
+
+## Algorithm used initially: 
+<h4 align="center">XGBoost</h3>
+XGBoost is a new Machine Learning algorithm designed with speed and performance in mind. XGBoost stands for eXtreme Gradient Boosting and is based on decision trees. In this project, we will import the XGBClassifier from the xgboost library; this is an implementation of the scikit-learn API for XGBoost classification.
 
 
 
+## Python libraries used:
+scikit-learn, numpy, pandas, matplotlib and xgboost
+
+## Python Built in Packages used:
+json warnings re
+
+In this Python machine learning project, using the <a href="https://data-flair.training/blogs/python-libraries/">Python libraries</a> scikit-learn, numpy, pandas, and xgboost, we will build a model using an XGBClassifier. We’ll load the data, get the features and labels, scale the features, then split the dataset, build an XGBClassifier, and then calculate the accuracy of our model.
+
+>Dataset used:
+You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/">download it here.</a> The dataset has 24 columns and 195 records and is only 39.7 KB.
 
 
+## Other Algorithms which you have to use to analyse the data after we have used XGBClassifier, and draw comparisons between the results (choose any one) :
 
+<h5 align="center"> 
+## Beginners:
+logistic regression
+
+## Intermediate/Advanced:
+k-nearest neighbors
+support vector machines
+random forests
+bagging algorithms
+Naive Bayes
+
+++==
+>Apart from this we will be generating graphical representation for our data and results:
+Histograms
+Scatter Plot
+Heatmaps
+Bar Charts
+Box
+Etc</h5>
 
 
 
