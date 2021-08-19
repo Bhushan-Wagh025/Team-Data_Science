@@ -43,13 +43,13 @@ random forests<br>
 bagging algorithms<br>
 Naive Bayes</h6>
 
-Apart from this we will be generating graphical representation for our data and results:
-Histograms
-Scatter Plot
-Heatmaps
-Bar Charts
-Box
-Etc</h5>
+## Apart from this we will be generating graphical representation for our data and results:
+<h7 align="center">Histograms<br>
+Scatter Plot<br>
+Heatmaps<br>
+Bar Charts<br>
+Box<br>
+Etc</h7>
 
 
 
