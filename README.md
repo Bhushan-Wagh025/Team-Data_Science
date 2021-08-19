@@ -35,7 +35,7 @@ You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://a
 
 <h5 align="center"> 
 ## Beginners:
-logistic regression
+<br>logistic regression<br>
 
 ## Intermediate/Advanced:
 k-nearest neighbors
