@@ -33,16 +33,15 @@ You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://a
 
 ## Other Algorithms which you have to use to analyse the data after we have used XGBClassifier, and draw comparisons between the results (choose any one) :
 
-<h5 align="center"> 
 ## Beginners:
-<br>logistic regression<br>
+<h5 align="center"><br>logistic regression<br></h5>
 
 ## Intermediate/Advanced:
-k-nearest neighbors
-support vector machines
-random forests
-bagging algorithms
-Naive Bayes
+<h6 align="center">k-nearest neighbors<br>
+support vector machines<br>
+random forests<br>
+bagging algorithms<br>
+Naive Bayes</h6>
 
 Apart from this we will be generating graphical representation for our data and results:
 Histograms
