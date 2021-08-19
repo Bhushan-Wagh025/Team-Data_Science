@@ -27,7 +27,7 @@ json warnings re
 
 In this Python machine learning project, using the <a href="https://data-flair.training/blogs/python-libraries/">Python libraries</a> scikit-learn, numpy, pandas, and xgboost, we will build a model using an XGBClassifier. We’ll load the data, get the features and labels, scale the features, then split the dataset, build an XGBClassifier, and then calculate the accuracy of our model.
 
->Dataset used:
+Dataset used:
 You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/">download it here.</a> The dataset has 24 columns and 195 records and is only 39.7 KB.
 
 
@@ -44,8 +44,7 @@ random forests
 bagging algorithms
 Naive Bayes
 
-++==
->Apart from this we will be generating graphical representation for our data and results:
+Apart from this we will be generating graphical representation for our data and results:
 Histograms
 Scatter Plot
 Heatmaps
